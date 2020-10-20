@@ -1,0 +1,53 @@
+h1{
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url("img/banner.gif");
+}
+.topimg{
+    margin: 0%;
+    padding: 0%;
+}
+.banner{
+    margin-left: 35%;
+    text-align: center;
+    
+    border: 5px solid blue;
+    
+    padding: 1px;
+}
+.one{
+    border: 2px solid white;
+    color: black;
+    background-color: rgb(64, 224, 149);
+    
+}
+.two{
+    border: 2px solid white;
+    color: black;
+    background-color: rgb(64, 224, 149);
+
+}
+h2{
+    color: white;
+    text-decoration: underline;
+}
+.three{
+    border: 2px solid white;
+    color: black;
+    background-color: rgb(64, 224, 149);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 5px solid white;
+    background-color:blue;
+    color: white;
+    text-align: center;
+ }
